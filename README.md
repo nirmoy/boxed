@@ -1,6 +1,7 @@
 # boxed
 Put command output in a box
 #Output
+```
  exa -l --sort newest|cargo run                                                                                                                                       (8s 92ms)
    Compiling boxed v0.1.0 (/home/nirmoy/devel/boxed)
     Finished dev [unoptimized + debuginfo] target(s) in 0.37s
@@ -12,3 +13,4 @@ Put command output in a box
 ║ .rw-r--r-- 136 nirmoy 23 Apr  1:24 Cargo.lock ║
 ║ drwxr-xr-x   - nirmoy 23 Apr  1:40 src        ║
 ╚═══════════════════════════════════════════════╝
+```
